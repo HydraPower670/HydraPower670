@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and dedicated web developer with a strong foundation in both front-end and back-end technologies. With a keen eye for detail and a commitment to delivering high-quality, user-friendly websites, I strive to create digital experiences that are not only visually appealing but also functional and efficient.
+I am a passionate and dedicated web developer with a strong foundation in both front-end Junior. With a keen eye for detail and a commitment to delivering high-quality, user-friendly websites, I strive to create digital experiences that are not only visually appealing but also functional and efficient.
 
 
 # 💻 Tech Stack:
